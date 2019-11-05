@@ -7,3 +7,10 @@ https://seabass-chicken-96t7.squarespace.com/config/settings/advanced/developer
 ```
 squarespace-server https://seabass-chicken-96t7.squarespace.com --auth
 ```
+
+## Development location at `morigin`
+https://github.com/DayTimeChunks/Squarespace.Avenue
+
+Set it up my own origin as:
+`git remote add morigin git@github.com:DayTimeChunks...`
+`git push -u morigin master`
