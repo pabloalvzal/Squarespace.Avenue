@@ -8,6 +8,9 @@ https://seabass-chicken-96t7.squarespace.com/config/settings/advanced/developer
 squarespace-server https://seabass-chicken-96t7.squarespace.com --auth
 ```
 
+## Production location: `origin`
+`git push origin master`
+
 ## Development location at `morigin`
 https://github.com/DayTimeChunks/Squarespace.Avenue
 
